@@ -52,7 +52,6 @@
 	},
 	"scripts": {
 		"grunt": "grunt",
-		"install" : "npm install ; grunt",
 		"test": "grunt travis --verbose"
 	}
 }
