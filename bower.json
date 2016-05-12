@@ -1,0 +1,27 @@
+{
+  "name": "jquery-powertip",
+  "description": "A jQuery plugin that creates hover tooltips.",
+  "main": "dist/jquery.powertip.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery",
+    "powertip",
+    "jquery",
+    "tooltip",
+    "tooltips",
+    "ui",
+    "browser"
+  ],
+  "homepage": "https://github.com/robertblackwell/jquery-powertip",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
