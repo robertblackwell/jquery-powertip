@@ -24,6 +24,10 @@
   "homepage": "https://github.com/robertblackwell/jquery-powertip",
   "ignore": [
     "**/.*",
+    "Gruntfile.js",
+    "doc",
+    "src",
+    "examples",
     "node_modules",
     "bower_components",
     "test",
