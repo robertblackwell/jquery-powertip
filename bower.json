@@ -16,6 +16,11 @@
     "ui",
     "browser"
   ],
+  "scripts" :{
+	  "preinstall":"echo preinstall",
+	  "postinstall":"echo post install",
+	  "preuninstall":"echo preuninstall"
+  },
   "homepage": "https://github.com/robertblackwell/jquery-powertip",
   "ignore": [
     "**/.*",
