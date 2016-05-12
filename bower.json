@@ -16,11 +16,6 @@
     "ui",
     "browser"
   ],
-  "scripts" :{
-	  "preinstall":"echo preinstall",
-	  "postinstall":"ls -al",
-	  "preuninstall":"echo preuninstall"
-  },
   "homepage": "https://github.com/robertblackwell/jquery-powertip",
   "ignore": [
     "Gruntfile.js",
