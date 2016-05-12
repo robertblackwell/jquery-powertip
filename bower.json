@@ -23,7 +23,6 @@
   },
   "homepage": "https://github.com/robertblackwell/jquery-powertip",
   "ignore": [
-    "**/.*",
     "Gruntfile.js",
     "doc",
     "src",
